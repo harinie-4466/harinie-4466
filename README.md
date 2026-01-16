@@ -21,6 +21,8 @@ I believe in learning by building, iterating, and refining — and this GitHub i
   Exploratory projects, early-stage ideas, and concept validations.  
    **[Click here to view my Experiments](https://github.com/topics/experiments-)**
 
+*Check out my Gists for more interesting projects, experiments, and code snippets. **[Click Me!](https://gist.github.com/harinie-4466)***
+
 ---
 
 ## GitHub at a Glance
